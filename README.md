@@ -45,7 +45,7 @@ GLAD is a mobile application created in React Native, and a unviersity project I
 
 technologies used: React Native, Firebase, Figma, Git, VSCode.
 
-<img src="../myProfile/assets/figmaapps.png">
+<img src="./assets/figmaapps.png">
 
 *This is the design of the application. It is implemented according to the design.*
 
