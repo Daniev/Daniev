@@ -43,8 +43,6 @@ My name is Daniel Sandøy 🇳🇴, and I'm an aspiring Software Developer enrol
 <summary style="font-size:20px;"> 😃 GLAD </summary> 
 GLAD is a mobile application created in React Native, and a unviersity project I am currently working on as the project leader.
 
-technologies used: React Native, Firebase, Figma, Git, VSCode.
-
 <img src="./assets/figmaapps.png">
 
 *This is the design of the application. It is implemented according to the design.*
