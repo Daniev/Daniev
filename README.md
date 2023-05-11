@@ -3,7 +3,7 @@
 <!-- This readme is inspired by the video of ForestKnight on YouTube: https://www.youtube.com/watch?v=ECuqb5Tv9qI, and DenverCoder1's readme: https://github.com/DenverCoder1/DenverCoder1 -->
 
 ## Hi there 👋
-My name is Daniel Sandøy 🇳🇴, and I'm an aspiring Software Developer enrolled in Software Engineering at the University of Agder. I'm currently working on a few projects both at university and privately, and I'm always looking for new opportunities to learn and grow as a developer. 
+My name is Daniel Sandøy, and I'm an aspiring Software Developer enrolled in Software Engineering at the University of Agder. I'm currently working on a few projects both at university and privately, and I'm always looking for new opportunities to learn and grow as a developer. 
 
 
 
@@ -37,9 +37,9 @@ My name is Daniel Sandøy 🇳🇴, and I'm an aspiring Software Developer enrol
   <br>
 
 
-
-## 💻 Current Projects
-<details open>
+<!-- 
+## 💻 Current Projects -->
+<!-- <details open>
 <summary style="font-size:20px;"> 😃 GLAD </summary> 
 GLAD is a mobile application created in React Native, and a unviersity project I am currently working on as the project leader.
 
@@ -58,9 +58,9 @@ As this is a work in progress and will count toward my grade, I unfortunately ca
 <br>
 
 ***
-</details>
+</details> -->
 
-<details open>
+<!-- <details open>
 <summary style="font-size: 20px;"> 🏋️‍♂️ WhatX </summary>
 WhatX is a personal project that came about because I want to know what I am to exercise at the gym and create my own workouts. With a website to create and edit workouts, and a mobile application to view and complete them.
 
@@ -77,7 +77,7 @@ It is currently at a very early stage, but I am working on it in my free time.
           
 
 </details>
-<br><br>
+<br><br> -->
 
 
 
