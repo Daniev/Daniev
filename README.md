@@ -3,7 +3,7 @@
 <!-- This readme is inspired by the video of ForestKnight on YouTube: https://www.youtube.com/watch?v=ECuqb5Tv9qI, and DenverCoder1's readme: https://github.com/DenverCoder1/DenverCoder1 -->
 
 ## Hi there 👋
-My name is Daniel Sandøy, and I'm an aspiring Software Developer enrolled in Software Engineering at the University of Agder. I'm currently working on a few projects both at university and privately, and I'm always looking for new opportunities to learn and grow as a developer. 
+My name is Daniel Sandøy, and I am a Software Developer enrolled in Software Engineering at the University of Agder. I'm currently working on a few projects both at university and privately, and I'm always looking for new opportunities to learn and grow as a developer. 
 
 
 
